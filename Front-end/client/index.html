@@ -1,0 +1,97 @@
+<html>
+
+<head>
+    <title>
+        Job Search
+    </title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Job Search System">
+    <meta name="keywords" content="Job, Job Search, Semantic Web, Semantic Web Application, SPARQL, SER531, SER 531">
+    <meta name="author"
+        content="Satvik Chemudupati, Vedasree Bodavula, Arshak Shan Shahjahan, Kavya Alla, Hemanth Dudala">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        defer></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"
+        defer></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js" defer></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"
+        defer></script>
+    <script type="text/javascript" src="/client/app.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark black scrolling-navbar">
+            <a class="navbar-brand" href="#">
+                <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-job-human-resources-flaticons-lineal-color-flat-icons-5.png"
+                 width="30" height="30" class="d-inline-block align-top" alt="">
+                <strong>Job Search</strong></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main class="pt-5 mx-lg-5">
+        <div class="container-fluid mt-5">
+            <form class="d-flex justify-content-center border border-dark p-4"
+                onsubmit="event.preventDefault(); search();" style = "background-color: burlywood;">
+                <input type="search" id="location" placeholder="Job Location" aria-label="Search"
+                    class="form-control mb-6" data-toggle="tooltip" title="Location" style = "font-style: oblique;">
+                <input type="search" id="company" placeholder="Company" aria-label="Search"
+                    class="form-control mb-6" data-toggle="tooltip" title="Company" style = "font-style: oblique;">
+                <input type="search" id="title" placeholder="Job Title" aria-label="Search" 
+                    class="form-control mb-6" data-toggle="tooltip" title="Job Title" style = "font-style: oblique;">
+                <input type="search" id="industry" placeholder="Industry" aria-label="Search" 
+                    class="form-control mb-6" data-toggle="tooltip" title="Industry" style = "font-style: oblique;">
+                <select id="jobType" class="custom-select custom-select-mb" style = "font-style: oblique;">
+                    <option value="" disabled selected>Choose your option</option>
+                    <option value="Full-Time">Full Time</option>
+                    <option value="Part-Time">Part Time</option>
+                    <option value="Internship">Internship</option>
+                </select>
+                <button class="btn btn-dark btn-sm my-0 p" type="submit">
+                    <i class="fa fa-search"></i>
+                </button>
+            </form>
+            <div class="row" id="row">
+
+            </div>
+            <div class="row p-5" id="row">
+
+            </div>
+        </div>
+    </main>
+    <footer class="page-footer font-small black fixed-bottom">
+
+        <div class="footer-copyright text-white bg-dark text-center py-3">
+            SER531-Team17 Fall 2022
+        </div>
+
+    </footer>
+</body>
+
+</html>
