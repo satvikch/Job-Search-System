@@ -4,10 +4,10 @@ BackEnd
 
 Pre-Requistes:
 
-  Install Java JDK8 on the system.
-  Set JAVA_HOME environment variable.
-  PATH variable has JDK path.
-  Install Maven.
+  1. Install Java JDK8 on the system.
+  2. Set JAVA_HOME environment variable.
+  3. PATH variable has JDK path.
+  4. Install Maven.
 
 Setup Instructions for local machine.
 
