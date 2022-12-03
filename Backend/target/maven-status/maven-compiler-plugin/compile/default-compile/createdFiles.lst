@@ -1,0 +1,10 @@
+com\ser\swe\Job.class
+com\ser\swe\JobsService.class
+com\ser\swe\Company.class
+com\ser\swe\SparqlQueries.class
+com\ser\swe\SparqlQuery.class
+com\ser\swe\CompaniesCollection.class
+com\ser\swe\JobsApplication.class
+com\ser\swe\JobsController.class
+com\ser\swe\Ontology.class
+com\ser\swe\JobsCollection.class
