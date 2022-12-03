@@ -1,6 +1,6 @@
 # SER531-Final-Project-Job-Search-System
 
-BackEnd
+**BackEnd**
 
 Pre-Requistes:
 
@@ -21,7 +21,7 @@ Setup Instructions for local machine.
     This should boot up the application.
     To test you can go to http://localhost:8080 on the web browser.
 
-FrontEnd
+**FrontEnd**
 
 Pre-Requistes:
 
@@ -41,7 +41,7 @@ Setup Instructions for local machine.
   6. npm test
   7. You can see the application running at http://localhost:3000 on your web browser.
   
-EC2 Instance 
+**EC2 Instance **
   1. Created Aws account for our team
   2. Added three instances 
   3. Uploaded out turtle files into all the three instances
