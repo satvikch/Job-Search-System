@@ -1,0 +1,845 @@
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Alabama> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Birmingham"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Montgomery"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gadsden"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Mobile"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Huntsville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Anniston"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Tuscaloosa"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Alaska> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Juneau"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Anchorage"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Arizona> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Glendale"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Tucson"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> , "Mesa"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> , <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Phoenix"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Scottsdale"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gilbert"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Peoria"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Arkansas> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Hot Springs National Park"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "North Little Rock"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Little Rock"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fort Smith"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/California> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Sacramento"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Barbara"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Los Angeles"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Northridge"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Carlsbad"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Long Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Oakland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bakersfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Corona"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Monica"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Irvine"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Francisco"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Torrance"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fresno"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Whittier"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Concord"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lancaster"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Glendale"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Newport Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Diego"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Inglewood"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Redwood City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Anaheim"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Luis Obispo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Burbank"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pasadena"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Orange"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Oxnard"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Mountain View"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fullerton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Huntington Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Jose"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Riverside"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Ana"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Brea"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Mateo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Cruz"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Van Nuys"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Chico"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Stockton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Escondido"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Garden Grove"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Bernardino"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Palmdale"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Chula Vista"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pomona"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Clara"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> , "Richmond"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> , <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Rosa"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Ventura"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Moreno Valley"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Colorado> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Aurora"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Denver"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Colorado Springs"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pueblo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Arvada"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Greeley"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Boulder"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Littleton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Grand Junction"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Connecticut> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "New Haven"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Hartford"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Waterbury"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Stamford"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Norwalk"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fairfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "West Hartford"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bridgeport"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Delaware> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Wilmington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Newark"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/District+of+Columbia> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Washington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Florida> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saint Petersburg"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lake Worth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Tallahassee"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Miami"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bradenton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Tampa"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Daytona Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Port Charlotte"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Hollywood"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fort Lauderdale"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Orlando"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Sarasota"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Panama City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lehigh Acres"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Boynton Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Naples"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Brooksville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Jacksonville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lakeland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gainesville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Cape Coral"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Ocala"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Vero Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pensacola"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Miami Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bonita Springs"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fort Myers"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pompano Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Kissimmee"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Largo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Palm Bay"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fort Pierce"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Clearwater"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Homestead"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "West Palm Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Hialeah"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Boca Raton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "North Port"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Melbourne"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saint Augustine"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Punta Gorda"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Port Saint Lucie"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pinellas Park"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Spring Hill"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Georgia> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Augusta"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Atlanta"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Norcross"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Savannah"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Duluth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Decatur"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Macon"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Marietta"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gainesville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Columbus"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Valdosta"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lawrenceville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Cumming"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Hawaii> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Honolulu"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Idaho> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Boise"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Illinois> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Springfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Peoria"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Carol Stream"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Chicago"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Champaign"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Decatur"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "East Saint Louis"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Naperville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Schaumburg"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Palatine"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Rockford"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Indiana> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "South Bend"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lafayette"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gary"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fort Wayne"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Indianapolis"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Evansville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Crawfordsville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Muncie"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Terre Haute"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Anderson"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bloomington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Iowa> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Des Moines"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Cedar Rapids"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Sioux City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Davenport"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Waterloo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Kansas> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Wichita"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Kansas City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Shawnee Mission"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Topeka"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Kentucky> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Louisville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lexington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> , "London"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Louisiana> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lake Charles"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "New Orleans"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Shreveport"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Baton Rouge"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lafayette"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Alexandria"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Monroe"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Metairie"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Maine> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Portland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Maryland> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bowie"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Hagerstown"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Silver Spring"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Ridgely"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Baltimore"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Frederick"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bethesda"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Laurel"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Massachusetts> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Newton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Woburn"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Boston"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Waltham"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Watertown"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Springfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Worcester"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Brockton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Michigan> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Battle Creek"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Flint"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Detroit"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Kalamazoo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Muskegon"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Dearborn"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saginaw"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Grand Rapids"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lansing"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Southfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Ann Arbor"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Farmington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Warren"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Midland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Minnesota> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Minneapolis"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Duluth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saint Paul"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saint Cloud"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Rochester"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Monticello"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Maple Plain"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Young America"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Mississippi> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Columbus"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Jackson"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Meridian"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gulfport"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Biloxi"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Missouri> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saint Joseph"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Kansas City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Saint Louis"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Springfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Jefferson City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Columbia"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Independence"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lees Summit"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Montana> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Missoula"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Billings"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bozeman"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Helena"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Nebraska> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Omaha"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lincoln"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Nevada> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Las Vegas"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "North Las Vegas"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Reno"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Henderson"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/New+Hampshire> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Portsmouth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Manchester"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/New+Jersey> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Paterson"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Trenton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Newark"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "New Brunswick"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Elizabeth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Jersey City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/New+Mexico> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Santa Fe"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Albuquerque"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/New+York> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "New York City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Mount Vernon"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Rochester"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bronx"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Port Washington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Albany"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Syracuse"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Jamaica"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Brooklyn"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Schenectady"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Staten Island"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "White Plains"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Buffalo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "New Hyde Park"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Hicksville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/North+Carolina> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Charlotte"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Greensboro"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "High Point"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Durham"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Winston Salem"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Raleigh"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gastonia"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fayetteville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Wilmington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/North+Dakota> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fargo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Ohio> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Cincinnati"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Toledo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Dayton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Cleveland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Youngstown"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Columbus"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Canton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Warren"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Springfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Akron"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Mansfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Oklahoma> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Oklahoma City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Tulsa"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Norman"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Edmond"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Oregon> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Portland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Beaverton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Pennsylvania> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Philadelphia"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pittsburgh"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Mc Keesport"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Harrisburg"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "New Castle"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Erie"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Johnstown"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "York"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Allentown"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Wilkes Barre"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bethlehem"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lancaster"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Levittown"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Rhode+Island> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Providence"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/South+Carolina> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Greenville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Charleston"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Spartanburg"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Columbia"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Beaufort"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/South+Dakota> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Sioux Falls"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/State> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Tennessee> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Nashville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Kingsport"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Memphis"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Knoxville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Chattanooga"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Murfreesboro"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Texas> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Dallas"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Longview"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fort Worth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Austin"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Corpus Christi"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "El Paso"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lubbock"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Houston"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Antonio"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Denton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Amarillo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Beaumont"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Mesquite"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Texarkana"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Spring"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Arlington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Irving"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Killeen"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Garland"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Gatesville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Pasadena"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Temple"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Wichita Falls"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Bryan"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Waco"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "San Angelo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Plano"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Odessa"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Utah> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Salt Lake City"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Ogden"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Provo"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Virginia> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Falls Church"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Richmond"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> , "Hampton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> , <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lynchburg"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Alexandria"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Herndon"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Norfolk"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Roanoke"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Virginia Beach"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Springfield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Arlington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Manassas"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Fairfax"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Newport News"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Ashburn"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Suffolk"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Merrifield"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Chesapeake"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Dulles"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Portsmouth"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Reston"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Charlottesville"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Washington> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Tacoma"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Lakewood"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Olympia"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Seattle"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Vancouver"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Kent"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Spokane"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Everett"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/West+Virginia> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Huntington"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Charleston"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-17/Wisconsin> a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Green Bay"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Milwaukee"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Madison"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Appleton"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#State> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#has_city> "Racine"^^<http://www.semanticweb.org/SER531/ontologies/Team-17/Locations#City> .
