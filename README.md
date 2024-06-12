@@ -1,4 +1,7 @@
-# SER531-Final-Project-Job-Search-System
+# Job-Search-System
+
+We implement a structured approach that secures data from multiple job hosting platforms and structures the data with coherency for efficient search queries. The searching algorithms apply constraints on the metadata based on the hyperparameters invoked by the user, such as location, type of job, and title of the job.
+
 
 **BackEnd**
 
